@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 ?>
-<html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
@@ -10,7 +10,3 @@ declare(strict_types=1);
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 </head>
-<body>
-
-</body>
-</html>
